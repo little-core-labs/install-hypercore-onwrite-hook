@@ -1,6 +1,6 @@
 {
   "name": "install-hypercore-onwrite-hook",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Install a write hook onto a Hypercore instance.",
   "main": "index.js",
   "scripts": {
